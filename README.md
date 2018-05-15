@@ -9,6 +9,13 @@ designing hydrological systems....
 
 ---
 
+**Objectives**
+
+
+** Themes**
+
+---
+
 **Assignments** | [Projects](projects.md)
 
 **Resources** | [Geospatial data sources](geospatial-data-sources.md)
@@ -32,12 +39,39 @@ designing hydrological systems....
 
 ---
 ## Contents
-1. [**...**](.md)
-    1. [...](.md#)
-2. [**...**](.md)
-    1. [...](.md#)
 
----
+**Site visit:** | [Amite gravel mines](projects.md#amite-gravel-mines)
+
+1. **Basin**
+    1. [Lidar processing](.md)
+    1. [Topographic analysis](.md)
+    1. [Hydrological modeling](.md)
+    1. [...](.md)
+    1. [Digital painting](.md)
+
+**Project:** | [Mapping the Amite](projects.md#mapping-the-amite)
+
+**Site visit:** | [Kayaking](projects.md#kayaking)
+
+2. **Site analysis**
+    1. [...](.md)
+    1. [Image classification](.md)
+    1. [Water and sediment flows](.md)
+    1. [Digital fabrication](.md)
+    1. [...](.md)
+
+**Project:** | [](projects.md#)
+
+**Site visit:** | [Center for River Studies](projects.md#center-for-river-studies)
+
+3. **Generative water systems**
+    1. [Bioengineering charrette](.md)
+    1. [Ecological dynamics](.md)
+    1. [Generative morphology](.md)
+    1. [Spatial catalysts](.md)
+    1. [Physical simulation](.md)
+
+**Project:** | [River restoration](projects.md#)
 
 ## License
 Open educational materials licensed CC BY-SA 4.0
