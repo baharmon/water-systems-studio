@@ -7,6 +7,8 @@
 This landscape architecture studio is an introduction to
 designing hydrological systems....
 
+
+
 ---
 
 **Objectives**
@@ -72,6 +74,8 @@ designing hydrological systems....
     1. [Physical simulation](.md)
 
 **Project:** | [River restoration](projects.md#)
+
+---
 
 ## License
 Open educational materials licensed CC BY-SA 4.0
