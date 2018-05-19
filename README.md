@@ -30,6 +30,16 @@ designing hydrological systems....
 [Geospatial Modeling Course](https://github.com/baharmon/geospatial-modeling-course) |
 [lecture.lsu.edu/](https://lecture.lsu.edu/)
 
+**Required readings**
+* Prominski & Stokman, River. Space. Design.
+
+**Recommended readings**
+* Neteler &  Mitasova, [Open Source GIS: A GRASS GIS Approach](https://grassbook.org/)
+* Petrasova et al., [Tangible Modeling for Open Source GIS](https://www.springer.com/us/book/9783319893020)
+* Acciavatti, Ganges Water Machine
+* Desimini & Waldheim, Cartographic Grounds
+* Spearing, Roadside Geology of Louisiana
+
 ---
 ## Contents
 1. [**...**](.md)
