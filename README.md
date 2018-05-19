@@ -47,6 +47,7 @@ designing hydrological systems....
 **Recommended readings**
 * Neteler &  Mitasova, [Open Source GIS: A GRASS GIS Approach](https://grassbook.org/)
 * Petrasova et al., [Tangible Modeling for Open Source GIS](https://www.springer.com/us/book/9783319893020)
+* Robinson, [Spoils of Dust](http://lmlab.org/the-spoils-of-dust/)
 * Acciavatti, Ganges Water Machine
 * Desimini & Waldheim, Cartographic Grounds
 * Spearing, Roadside Geology of Louisiana
