@@ -50,18 +50,18 @@ Project | [Mapping the Amite](projects.md#mapping-the-amite)
 Site visit | [Amite gravel mines](projects.md#amite-gravel-mines)
 
 2. **The Amite Gravel Mines**
+    1. [Inventory](.md)
     1. [Digital fabrication](.md)
     1. [Imagery](.md)
     1. [Flows](.md)
     1. [History](.md)
-    1. [Conceptual modeling](.md)
 
 Project | [Modeling the Amite](projects.md#modeling-the-amite)
 
 Site visit | [LSU Center for River Studies](projects.md#lsu-center-for-river-studies)
 
 3. **Generative Water Systems**
-    1. [Bioengineering](.md)
+    1. [Bioengineering](bioengineering.md)
     1. [Generative morphology](.md)
     1. [Spatial catalysts](.md)
     1. [Physical simulation](.md)
