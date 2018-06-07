@@ -1,28 +1,19 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-# Water Studio
+# Water Systems Studio
 
 <p align="center"><img src="images/" height="500"></p>
 
-This landscape architecture studio is an introduction to
+**The Water Systems Studio** is an introduction to
 designing hydrological systems....
 
+**Objectives** | ...
 
-
----
-
-**Objectives**
-
-...
-
-**Themes**
-...
+**Themes** | ...
 
 ---
 
-**Assignments** | [Projects](projects.md)
-
-**Resources** | [Geospatial data sources](geospatial-data-sources.md)
+**Assignments** | [Projects](projects.md) | [Readings](readings.md)
 
 **Software** | [GRASS GIS](https://grass.osgeo.org) |
 [Rhino](https://www.rhino3d.com/)
@@ -41,54 +32,56 @@ designing hydrological systems....
 [Geospatial Modeling Course](https://github.com/baharmon/geospatial-modeling-course) |
 [lecture.lsu.edu/](https://lecture.lsu.edu/)
 
-**Required readings**
-* Prominski & Stokman, River. Space. Design.
-
-**Recommended readings**
-* Neteler &  Mitasova, [Open Source GIS: A GRASS GIS Approach](https://grassbook.org/)
-* Petrasova et al., [Tangible Modeling for Open Source GIS](https://www.springer.com/us/book/9783319893020)
-* Robinson, [Spoils of Dust](http://lmlab.org/the-spoils-of-dust/)
-* Acciavatti, Ganges Water Machine
-* Desimini & Waldheim, Cartographic Grounds
-* Spearing, Roadside Geology of Louisiana
-
 ---
+
 ## Contents
 
-**Site visit:** | [Amite gravel mines](projects.md#amite-gravel-mines)
+Site visit | [Kayaking the Amite](projects.md#kayaking-the-amite)
 
-1. **Basin**
-    1. [Lidar processing](.md)
-    1. [Topographic analysis](.md)
-    1. [Hydrological modeling](.md)
-    1. [...](.md)
-    1. [Digital painting](.md)
+1. **The Amite River Basin**
+    1. [Introduction](.md)
+    1. [Topography](.md)
+    1. [Hydrology](.md)
+    1. [Diagramming](.md)
+    1. [Cartography](.md)
 
-**Project:** | [Mapping the Amite](projects.md#mapping-the-amite)
+Project | [Mapping the Amite](projects.md#mapping-the-amite)
 
-**Site visit:** | [Kayaking](projects.md#kayaking)
+Site visit | [Amite gravel mines](projects.md#amite-gravel-mines)
 
-2. **Site analysis**
-    1. [...](.md)
-    1. [Image classification](.md)
-    1. [Water and sediment flows](.md)
+2. **The Amite Gravel Mines**
     1. [Digital fabrication](.md)
-    1. [...](.md)
+    1. [Imagery](.md)
+    1. [Flows](.md)
+    1. [History](.md)
+    1. [Conceptual modeling](.md)
 
-**Project:** | [](projects.md#)
+Project | [Modeling the Amite](projects.md#modeling-the-amite)
 
-**Site visit:** | [Center for River Studies](projects.md#center-for-river-studies)
+Site visit | [LSU Center for River Studies](projects.md#lsu-center-for-river-studies)
 
-3. **Generative water systems**
-    1. [Bioengineering charrette](.md)
-    1. [Ecological dynamics](.md)
+3. **Generative Water Systems**
+    1. [Bioengineering](.md)
     1. [Generative morphology](.md)
     1. [Spatial catalysts](.md)
     1. [Physical simulation](.md)
+    1. [Generative design](.md)
 
-**Project:** | [River restoration](projects.md#)
+Project | [Restoring the Amite](projects.md#restoring-amite)
 
 ---
+
+## Network drives
+Students enrolled in the Louisiana State University course
+LA 7031 Water Systems Studio
+should submit their work via the course network drive.
+* Windows: `\\desn-knox.lsu.edu\Landscape-Classes`
+* Mac: `smb://desn-knox.lsu.edu/Landscape-Classes`
+
+Data and other resources are available on the lab network drive.
+* Windows: `\\desn-knox.lsu.edu\CADGIS_SHARE`
+* Mac: `smb://desn-knox.lsu.edu/CADGIS_SHARE`
+
 
 ## License
 Open educational materials licensed CC BY-SA 4.0
