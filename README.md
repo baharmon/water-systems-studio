@@ -7,13 +7,15 @@
 **The Water Systems Studio** is an introduction to
 designing hydrological systems....
 
-**Objectives** | ...
-
-**Themes** | ...
+**Objectives**
+* To map and analyze hydrological systems
+* To understand how processes and forms interact
+* To design processes as well as forms
+* To design for disturbed landscapes
 
 ---
 
-**Assignments** | [Projects](projects.md) | [Readings](readings.md)
+**Assignments** | [Projects](projects.md) | [Readings](readings.md) | [Terminology](terminology.md)
 
 **Software** | [GRASS GIS](https://grass.osgeo.org) |
 [Rhino](https://www.rhino3d.com/)
@@ -43,7 +45,7 @@ Site visit | [Kayaking the Amite](projects.md#kayaking-the-amite)
     1. [Topography](.md)
     1. [Hydrology](.md)
     1. [Diagramming](.md)
-    1. [Cartography](.md)
+    1. [Site selection](.md)
 
 Project | [Mapping the Amite](projects.md#mapping-the-amite)
 

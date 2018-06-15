@@ -59,12 +59,17 @@ Prepare a 15 minute presentation on one of the following precedents.
 
 ### Mapping the Amite
 
+You should make
 
-* ...
-* ...
-* ...
-
-
+including sectional or 3D information
+* Sociocultural maps
+* Soil and landcover maps
+* Topographic and hydrologic maps
+* Flood maps with rainfall data
+* Spatial and temporal maps of the history of mining along the river
+* Spatiotemporal map of the evolution of the river channel
+* Site selection logic model and map
+* Diagrams of ...
 
 ### Modeling the Amite
 

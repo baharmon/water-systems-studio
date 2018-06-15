@@ -18,6 +18,10 @@
 ## Reports
 * [Fluvial Instability and Channel Degradation of Amite River](http://www.dtic.mil/dtic/tr/fulltext/u2/a471731.pdf)
 * [August 2016 Flood Report Amite River Basin](http://www.amitebasin.org/2016Flood/August%202016%20Flood%20Preliminary%20Report.pdf)
+* [Louisiana Watershed Resiliency Study](https://data.femadata.com/Region6/mitigation/riskmap/lawrs/reports/LaWRS_Main%20Report.pdf)
+* [Louisiana Watershed Resiliency Study: Amite Watershed](https://data.femadata.com/Region6/mitigation/riskmap/lawrs/reports/Amite_Appendix.pdf)
+* [Amite River Sand & Gravel Mine Reclamation Demonstration Project](http://www.mvn.usace.army.mil/Portals/56/docs/PD/Projects/AmiteEcoSys/DEQ.pdf)
+* [River Sand & Gravel Mining Data](https://minerals.usgs.gov/mrerp/reports/Mossa-04HQGR0178/Mossa_Report1-04HQGR0178.pdf)
 
 ## Handbooks
 * [USDA Stream Restoration](http://go.usa.gov/BvNA)
