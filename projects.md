@@ -32,8 +32,9 @@ On **xx/xx**
 we will visit gravel mines and degraded river banks on the Amite River.
 You will document the sites with sketches, photography, photospheres, and
 imagery and video from drones.
+Come prepared with sunscreen, sunglasses, insect repellent, and water.
 Please bring sketchbooks, DSLR cameras,
-a Phantom DJI drone, and Ricoh Theta 360 degree cameras.
+a DJI Phantom drone, and Ricoh Theta 360 degree cameras.
 
 ### LSU Center for River Studies
 On **xx/xx**
