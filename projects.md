@@ -5,6 +5,8 @@
     1. [Kayaking the Amite](#kayaking-the-amite)
     2. [Amite Gravel Mines](#amite-gravel-mines)
     3. [LSU Center for River Studies](#lsu-center-for-river-studies)
+1. [**Workshops**](#workshops)
+    1. [Drone photogrammetry](#drone-photogrammetry)
 1. [**Precedent studies**](#precedent-studies)
 1. [**Design projects**](#design-projects)
     1. [Mapping the Amite](#mapping-the-amite)
@@ -17,7 +19,7 @@
 
 ### Kayaking the Amite
 
-On **09/26**
+On **08/24/2018**
 we will rent kayaks from [University Recreation](http://lsuuniversityrec.com/lsuurec/adventure-education/outdoor-gear-rental/)
 and kayak along the Amite.
 Please come prepared for wet and sunny conditions
@@ -28,7 +30,7 @@ and Ricoh Theta 360 degree cameras from the
 [LSU cxC Art+Design Studio](https://sites01.lsu.edu/wp/cxc/studios/coad/).
 
 ### Amite Gravel Mines
-On **xx/xx**
+On **09/24/2018**
 we will visit gravel mines and degraded river banks on the Amite River.
 You will document the sites with sketches, photography, photospheres, and
 imagery and video from drones.
@@ -37,16 +39,27 @@ Please bring sketchbooks, DSLR cameras,
 a DJI Phantom drone, and Ricoh Theta 360 degree cameras.
 
 ### LSU Center for River Studies
-On **xx/xx**
+On **10/29/2018**
 we will tour the [LSU Center for River Studies](http://lsu.edu/river/)
 and see a physical simulation of sediment transport on
 the Lower Mississippi River Physical Model.
+
+## Workshops
+
+### Drone photogrammetry
+On **09/15/2018**
+conduct a topographic survey with an unmanned aerial system (UAS)
+at Hilltop Arboretum.
+After a morning theory session,
+survey the arboretum grounds with a drone,
+and then use stereophotogrammetry to generate a digital surface model.
 
 ## Precedent studies
 Prepare a 15 minute presentation on one of the following precedents.
 * [The Sand Motor](http://www.dezandmotor.nl/en/home/)
 * [Renaturation of the River Aire](http://www.landezine.com/index.php/2016/06/renaturation-of-the-river-aire-geneva/) [Report](http://www.ir.undp.org/content/dam/iran/docs/News/October%202013/UNDP%20holds%20joint%20workshop%20with%20the%20Ministry%20of%20Energy/1%20Introduction%20to%20Rivers%20Renaturation.pdf)
 * A case study from Prominski & Stokman's *River. Space. Design.*
+* A case study of your own choice
 
 ## Design projects
 All work should be submitted via the course network drive

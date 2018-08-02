@@ -5,18 +5,13 @@
 <p align="center"><img src="images/" height="500"></p>
 
 **The Water Systems Studio**
-is an introduction to designing and restoring hydrological systems.
+is an introduction to the design and restoration of hydrological systems.
 This studio will address the derelict gravel mines on the Amite River
 that have straightened the course of the river,
 increased erosion and sediment loads,
 and heightened flooding downriver.
-
-In this studio you will learn how to design landforms to control the flow of water
-
-In this studio you will learn how the flow of water shapes topographic form
-and how topographic form controls the water flow.
-
- and the flow of water interact
+In this studio you will learn how
+the flow of water and topographic form interact.
 
 **Objectives**
 * To map and analyze hydrological systems
@@ -25,6 +20,9 @@ and how topographic form controls the water flow.
 * To design for disturbed landscapes
 
 ---
+
+**Syllabus** |
+[2018](water-studio-syllabus-2018.pdf)
 
 **Assignments** | [Projects](projects.md) | [Readings](readings.md) | [Terminology](terminology.md)
 
