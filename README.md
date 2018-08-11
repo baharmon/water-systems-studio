@@ -2,7 +2,7 @@
 
 # Water Systems Studio
 
-<p align="center"><img src="images/amite/mine_shaded_imagery.png" height="500"></p>
+![Amite Shaded Imagery][images/amite/mine_shaded_imagery.png]
 
 **The Water Systems Studio**
 is an introduction to the design and restoration of hydrological systems.
