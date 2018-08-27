@@ -1,7 +1,7 @@
 # Readings
 
 ## Required
-* Prominski & Stokman, *River. Space. Design.*
+* Prominski & Stokman, *River. Space. Design.* | [e-textbook](http://libezp.lib.lsu.edu/login?url=https://www.degruyter.com/viewbooktoc/product/480856)
 
 ## Recommended
 * Robinson, [Spoils of Dust](http://lmlab.org/the-spoils-of-dust/)
@@ -12,7 +12,8 @@
 * Antoniou, Klanten, & Ehmann, *Mind the Map*
 * Spearing, *Roadside Geology of Louisiana*
 * Kennen & Kirkwood, *Phyto: Principles and Resources for Site Remediation and Landscape Design*
-* Neteler &  Mitasova, [Open Source GIS: A GRASS GIS Approach](https://grassbook.org/)
+* Neteler &  Mitasova, [Open Source GIS: A GRASS GIS Approach](https://grassbook.org/) |
+[e-textbook](http://libezp.lib.lsu.edu/login?url=https://link.springer.com/book/10.1007%2F978-0-387-68574-8)
 * Petrasova et al., [Tangible Modeling for Open Source GIS](https://www.springer.com/us/book/9783319893020)
 
 ## Reports
