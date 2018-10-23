@@ -9,7 +9,10 @@
 ## Land art
 * Patrick Dougherty | [Stickwork](http://www.stickwork.net/)
 * Luc Schuiten | [Vegetal City](http://www.vegetalcity.net/en/) | [Residence Strasbourg](http://www.vegetalcity.net/en/topics/residence-strasbourg/)
-* Chris Drury | [Land Art](http://chrisdrury.co.uk/category/works_outside/) | [Log Wave](http://chrisdrury.co.uk/log-wave-ashland-community-project-milton-keynes/)
+* Chris Drury | [Land Art](http://chrisdrury.co.uk/category/works_outside/) | [Log Wave](http://chrisdrury.co.uk/log-wave-ashland-community-project-milton-keynes/) | [Willow Domes on the Este](http://chrisdrury.co.uk/willow-domes-on-the-este/)
+* Herb Parker | [Highlands Dialogue](http://www.herbparker.us/portfolio/highlands-dialogue/)
+* Sopheap Pich | [Cycle](http://sopheap-pich.com/)
+* Arte Sella | [The Contemporary Mountain](http://www.artesella.it/en/)
 
 ## Readings
 * USDA NRCS | [The Practical Streambank Bioengineering Guide](https://www.nrcs.usda.gov/Internet/FSE_PLANTMATERIALS/publications/idpmcpu116.pdf)
